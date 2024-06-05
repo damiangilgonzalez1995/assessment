@@ -1,4 +1,4 @@
-# Assessment
+# Assestment
 
 Paso 1 -> Crear base de datos con el comando: python .\db\create_db.py
 Paso 2 -> Levantar el servidor: uvicorn app:app --host 0.0.0.0 --port 8000
