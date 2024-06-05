@@ -1,8 +1,8 @@
 # Assestment
 
-Paso 1 -> Crear base de datos con el comando: python .\db\create_db.py
-Paso 2 -> Levantar el servidor: uvicorn app:app --host 0.0.0.0 --port 8000
-Paso 3 -> Ejecutar el jupyter notebook para comprobar que funciona todo.
+- Paso 1 -> Crear base de datos con el comando: python .\db\create_db.py
+- Paso 2 -> Levantar el servidor: uvicorn app:app --host 0.0.0.0 --port 8000
+- Paso 3 -> Ejecutar el jupyter notebook para comprobar que funciona todo.
 
 **Nota muy importante** -> Debido a que recientemente he tenido que eliminar docker de mi ordenador por tema de espacio, no he podido comprobar si he dockerizado correctamente la API.
 Por ello, la forma de levantar el servidor no es a través de docker. Además de que la creación de la base de datos tampoco la he dockerizado. Soy consciente.
